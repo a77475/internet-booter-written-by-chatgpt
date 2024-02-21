@@ -27,7 +27,7 @@ def boot_network(target_ip, target_port, duration):
     sock.close()
 
 # Replace these values with your target's IP address, port, and duration of attack
-target_ip = "192.168.1.1"
+target_ip = "PUT IP HERE"
 target_port = 80
 duration = 60  # Attack duration in seconds
 
